@@ -1,0 +1,457 @@
+@font-face {
+	font-family: 'webfont-medical-icons';
+	src:url('fonts/webfont-medical-icons.eot');
+	src:url('fonts/webfont-medical-icons.eot?#iefix') format('embedded-opentype'),
+		url('fonts/webfont-medical-icons.ttf') format('truetype'),
+		url('fonts/webfont-medical-icons.woff') format('woff'),
+		url('fonts/webfont-medical-icons.svg#webfont-medical-icons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'webfont-medical-icons';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-i-womens-health:before {
+	content: "\e600";
+}
+.icon-i-waiting-area:before {
+	content: "\e601";
+}
+.icon-i-volume-control:before {
+	content: "\e602";
+}
+.icon-i-ultrasound:before {
+	content: "\e603";
+}
+.icon-i-text-telephone:before {
+	content: "\e604";
+}
+.icon-i-surgery:before {
+	content: "\e605";
+}
+.icon-i-stairs:before {
+	content: "\e606";
+}
+.icon-i-radiology:before {
+	content: "\e607";
+}
+.icon-i-physical-therapy:before {
+	content: "\e608";
+}
+.icon-i-pharmacy:before {
+	content: "\e609";
+}
+.icon-i-pediatrics:before {
+	content: "\e60a";
+}
+.icon-i-pathology:before {
+	content: "\e60b";
+}
+.icon-i-outpatient:before {
+	content: "\e60c";
+}
+.icon-i-mental-health:before {
+	content: "\e60d";
+}
+.icon-i-medical-records:before {
+	content: "\e60e";
+}
+.icon-i-medical-library:before {
+	content: "\e60f";
+}
+.icon-i-mammography:before {
+	content: "\e610";
+}
+.icon-i-laboratory:before {
+	content: "\e611";
+}
+.icon-i-labor-delivery:before {
+	content: "\e612";
+}
+.icon-i-immunizations:before {
+	content: "\e613";
+}
+.icon-i-imaging-root-category:before {
+	content: "\e614";
+}
+.icon-i-imaging-alternative-pet:before {
+	content: "\e615";
+}
+.icon-i-imaging-alternative-mri:before {
+	content: "\e616";
+}
+.icon-i-imaging-alternative-mri-two:before {
+	content: "\e617";
+}
+.icon-i-imaging-alternative-ct:before {
+	content: "\e618";
+}
+.icon-i-fire-extinguisher:before {
+	content: "\e619";
+}
+.icon-i-family-practice:before {
+	content: "\e61a";
+}
+.icon-i-emergency:before {
+	content: "\e61b";
+}
+.icon-i-elevators:before {
+	content: "\e61c";
+}
+.icon-i-ear-nose-throat:before {
+	content: "\e61d";
+}
+.icon-i-drinking-fountain:before {
+	content: "\e61e";
+}
+.icon-i-cardiology:before {
+	content: "\e61f";
+}
+.icon-i-billing:before {
+	content: "\e620";
+}
+.icon-i-anesthesia:before {
+	content: "\e621";
+}
+.icon-i-ambulance:before {
+	content: "\e622";
+}
+.icon-i-alternative-complementary:before {
+	content: "\e623";
+}
+.icon-i-administration:before {
+	content: "\e624";
+}
+.icon-i-social-services:before {
+	content: "\e625";
+}
+.icon-i-smoking:before {
+	content: "\e626";
+}
+.icon-i-restrooms:before {
+	content: "\e627";
+}
+.icon-i-restaurant:before {
+	content: "\e628";
+}
+.icon-i-respiratory:before {
+	content: "\e629";
+}
+.icon-i-registration:before {
+	content: "\e62a";
+}
+.icon-i-oncology:before {
+	content: "\e62b";
+}
+.icon-i-nutrition:before {
+	content: "\e62c";
+}
+.icon-i-nursery:before {
+	content: "\e62d";
+}
+.icon-i-no-smoking:before {
+	content: "\e62e";
+}
+.icon-i-neurology:before {
+	content: "\e62f";
+}
+.icon-i-mri-pet:before {
+	content: "\e630";
+}
+.icon-i-interpreter-services:before {
+	content: "\e631";
+}
+.icon-i-internal-medicine:before {
+	content: "\e632";
+}
+.icon-i-intensive-care:before {
+	content: "\e633";
+}
+.icon-i-inpatient:before {
+	content: "\e634";
+}
+.icon-i-information-us:before {
+	content: "\e635";
+}
+.icon-i-infectious-diseases:before {
+	content: "\e636";
+}
+.icon-i-hearing-assistance:before {
+	content: "\e637";
+}
+.icon-i-health-services:before {
+	content: "\e638";
+}
+.icon-i-health-education:before {
+	content: "\e639";
+}
+.icon-i-gift-shop:before {
+	content: "\e63a";
+}
+.icon-i-genetics:before {
+	content: "\e63b";
+}
+.icon-i-first-aid:before {
+	content: "\e63c";
+}
+.icon-i-dermatology:before {
+	content: "\e63d";
+}
+.icon-i-dental:before {
+	content: "\e63e";
+}
+.icon-i-coffee-shop:before {
+	content: "\e63f";
+}
+.icon-i-chapel:before {
+	content: "\e640";
+}
+.icon-i-cath-lab:before {
+	content: "\e641";
+}
+.icon-i-care-staff-area:before {
+	content: "\e642";
+}
+.icon-i-accessibility:before {
+	content: "\e643";
+}
+.icon-i-diabetes-education:before {
+	content: "\e644";
+}
+.icon-i-hospital:before {
+	content: "\e645";
+}
+.icon-i-kidney:before {
+	content: "\e646";
+}
+.icon-i-ophthalmology:before {
+	content: "\e647";
+}
+.icon-womens-health:before {
+	content: "\e648";
+}
+.icon-waiting-area:before {
+	content: "\e649";
+}
+.icon-volume-control:before {
+	content: "\e64a";
+}
+.icon-ultrasound:before {
+	content: "\e64b";
+}
+.icon-text-telephone:before {
+	content: "\e64c";
+}
+.icon-surgery:before {
+	content: "\e64d";
+}
+.icon-stairs:before {
+	content: "\e64e";
+}
+.icon-radiology:before {
+	content: "\e64f";
+}
+.icon-physical-therapy:before {
+	content: "\e650";
+}
+.icon-pharmacy:before {
+	content: "\e651";
+}
+.icon-pediatrics:before {
+	content: "\e652";
+}
+.icon-pathology:before {
+	content: "\e653";
+}
+.icon-outpatient:before {
+	content: "\e654";
+}
+.icon-ophthalmology:before {
+	content: "\e655";
+}
+.icon-mental-health:before {
+	content: "\e656";
+}
+.icon-medical-records:before {
+	content: "\e657";
+}
+.icon-medical-library:before {
+	content: "\e658";
+}
+.icon-mammography:before {
+	content: "\e659";
+}
+.icon-laboratory:before {
+	content: "\e65a";
+}
+.icon-labor-delivery:before {
+	content: "\e65b";
+}
+.icon-kidney:before {
+	content: "\e65c";
+}
+.icon-immunizations:before {
+	content: "\e65d";
+}
+.icon-imaging-root-category:before {
+	content: "\e65e";
+}
+.icon-imaging-alternative-pet:before {
+	content: "\e65f";
+}
+.icon-imaging-alternative-mri:before {
+	content: "\e660";
+}
+.icon-imaging-alternative-mri-two:before {
+	content: "\e661";
+}
+.icon-imaging-alternative-ct:before {
+	content: "\e662";
+}
+.icon-hospital:before {
+	content: "\e663";
+}
+.icon-fire-extinguisher:before {
+	content: "\e664";
+}
+.icon-family-practice:before {
+	content: "\e665";
+}
+.icon-emergency:before {
+	content: "\e666";
+}
+.icon-elevators:before {
+	content: "\e667";
+}
+.icon-ear-nose-throat:before {
+	content: "\e668";
+}
+.icon-drinking-fountain:before {
+	content: "\e669";
+}
+.icon-diabetes-education:before {
+	content: "\e66a";
+}
+.icon-cardiology:before {
+	content: "\e66b";
+}
+.icon-billing:before {
+	content: "\e66c";
+}
+.icon-anesthesia:before {
+	content: "\e66d";
+}
+.icon-ambulance:before {
+	content: "\e66e";
+}
+.icon-alternative-complementary:before {
+	content: "\e66f";
+}
+.icon-administration:before {
+	content: "\e670";
+}
+.icon-accessibility:before {
+	content: "\e671";
+}
+.icon-social-services:before {
+	content: "\e672";
+}
+.icon-smoking:before {
+	content: "\e673";
+}
+.icon-restrooms:before {
+	content: "\e674";
+}
+.icon-restaurant:before {
+	content: "\e675";
+}
+.icon-respiratory:before {
+	content: "\e676";
+}
+.icon-oncology:before {
+	content: "\e677";
+}
+.icon-nutrition:before {
+	content: "\e678";
+}
+.icon-nursery:before {
+	content: "\e679";
+}
+.icon-no-smoking:before {
+	content: "\e67a";
+}
+.icon-neurology:before {
+	content: "\e67b";
+}
+.icon-mri-pet:before {
+	content: "\e67c";
+}
+.icon-interpreter-services:before {
+	content: "\e67d";
+}
+.icon-internal-medicine:before {
+	content: "\e67e";
+}
+.icon-intensive-care:before {
+	content: "\e67f";
+}
+.icon-inpatient:before {
+	content: "\e680";
+}
+.icon-information-us:before {
+	content: "\e681";
+}
+.icon-infectious-diseases:before {
+	content: "\e682";
+}
+.icon-hearing-assistance:before {
+	content: "\e683";
+}
+.icon-health-services:before {
+	content: "\e684";
+}
+.icon-health-education:before {
+	content: "\e685";
+}
+.icon-gift-shop:before {
+	content: "\e686";
+}
+.icon-genetics:before {
+	content: "\e687";
+}
+.icon-first-aid:before {
+	content: "\e688";
+}
+.icon-dental:before {
+	content: "\e689";
+}
+.icon-coffee-shop:before {
+	content: "\e68a";
+}
+.icon-chapel:before {
+	content: "\e68b";
+}
+.icon-cath-lab:before {
+	content: "\e68c";
+}
+.icon-care-staff-area:before {
+	content: "\e68d";
+}
+.icon-registration:before {
+	content: "\e68e";
+}
+.icon-dermatology:before {
+	content: "\e68f";
+}
