@@ -1,16 +1,16 @@
 Font-Medical-Icons
 ==================
 
-#### *72 ICONS (X2)* specialized in the Clinical & Medical world FREE and easy to use!
+#### **72 ICONS (X2)** specialized in the Clinical & Medical world FREE and easy to use!
 ---
-#### *Important!* Before use, *[please read the terms and conditions](http://www.hablamosjuntos.org/signage/symbols/faq.asp#2)* set by *[Hablamos Juntos](http://www.hablamosjuntos.org/)* who designed these icons package.
+#### **Important!** Before use, **[please read the terms and conditions](http://www.hablamosjuntos.org/signage/symbols/faq.asp#2)** set by **[Hablamos Juntos](http://www.hablamosjuntos.org/)** who designed these icons package.
 
 This package is a digital adaptation for use on the web media.
 
 ###### includes:
----
 SVGs, PNGs (64x64), Webfont (.eot, .ttf, .woff, .svg)
 
+---
 #### Using Icon Fonts into your project
 ---
 1. Copy the fonts folder
