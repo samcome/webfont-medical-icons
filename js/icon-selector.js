@@ -14,7 +14,7 @@ define(["jquery", "bootstrap.min"], function($){
    $(icons).on("click", function(e){
       var iconName = $(this).data("original-title");
       var fileName = iconName.replace("icon-", "") + ".svg";
-      var filePath = "../packages/svg/" + fileName;
+      var filePath = "packages/svg/" + fileName;
       $.get(filePath).done(function(data){
          var icon = $(data).find("svg");
          $("#svg-container").html(icon);
