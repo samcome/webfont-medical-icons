@@ -7,7 +7,7 @@ Font-Medical-Icons
 
 This package is a digital adaptation for use on the web media.
 
-Exemple : **[http://samcome.github.io/webfont-medical-icons](http://samcome.github.io/webfont-medical-icons)**
+Example : **[http://samcome.github.io/webfont-medical-icons](http://samcome.github.io/webfont-medical-icons)**
 
 ###### includes:
 SVGs, PNGs (64x64), Webfont (.eot, .ttf, .woff, .svg)
