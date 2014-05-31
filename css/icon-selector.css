@@ -24,6 +24,18 @@ body {
    text-align: center;
 }
 
+#bottom-footer {
+   position: fixed;
+   bottom: 0px;
+   padding: 10px 15px;
+   width: 240px;
+}
+
+#bottom-footer p {
+   font-size: 12px;
+   font-style: italic;
+}
+
 #icons {
    margin-left: 250px;
 }
