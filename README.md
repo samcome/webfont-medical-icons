@@ -27,4 +27,19 @@ SVGs, PNGs (64x64), Webfont (.eot, .ttf, .woff, .svg)
 4. Add classes to your elements
 `<span class="icon-neurology" aria-hidden="true"></span>`
 
-#### DONE! 
+#### DONE!
+
+---
+#### Downloading icons as PNG
+---
+1. Click on the icon you want
+
+2. Select the desired colour
+
+3. Enter the desired size (in px)
+
+4. Click on 'Get PNG file'
+
+5. Save PNG file (ctrl+s or cmd+s)
+
+ (Thanx to **[pyko](https://github.com/pyko)** for add this last part)
