@@ -7,11 +7,7 @@ Font-Medical-Icons
 
 This package is a digital adaptation for use on the web media.
 
-<<<<<<< HEAD
-Exemple : **[http://samcome.github.io/webfont-medical-icons](http://samcome.github.io/webfont-medical-icons)**
-=======
 Example : **[http://samcome.github.io/webfont-medical-icons](http://samcome.github.io/webfont-medical-icons)**
->>>>>>> origin/gh-pages
 
 ###### includes:
 SVGs, PNGs (64x64), Webfont (.eot, .ttf, .woff, .svg)
@@ -31,9 +27,6 @@ SVGs, PNGs (64x64), Webfont (.eot, .ttf, .woff, .svg)
 4. Add classes to your elements
 `<span class="icon-neurology" aria-hidden="true"></span>`
 
-<<<<<<< HEAD
-#### DONE! 
-=======
 #### DONE!
 
 ---
@@ -50,4 +43,3 @@ SVGs, PNGs (64x64), Webfont (.eot, .ttf, .woff, .svg)
 5. Save PNG file (ctrl+s or cmd+s)
 
  (Thanx to **[pyko](https://github.com/pyko)** for add this last part)
->>>>>>> origin/gh-pages
