@@ -1,0 +1,8 @@
+{
+  "name": "webfont-medical-icons",
+  "version": "1.0.0",
+  "description": "72 ICONS (X2) specialized in the Clinical & Medical world FREE and easy to use!",
+  "main": "packages/webfont-medical-icons/wfmi-style.css",
+  "author": "Samuel Frémondière",
+  "license": "MIT"
+}
