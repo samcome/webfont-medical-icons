@@ -13,18 +13,41 @@ Example : **[http://samcome.github.io/webfont-medical-icons](http://samcome.gith
 SVGs, PNGs (64x64), Webfont (.eot, .ttf, .woff, .svg)
 
 ---
-#### Using Icon Fonts into your project
+### Using Icon Fonts into your project
 ---
-1. Copy the fonts folder
-`packages/webfont-medical-icons/fonts`
 
-2. Copy the css file
-`packages/webfont-medical-icons/wfmi-style.css`
 
-3. In the head html, reference the location to the css file
+---
+#### Install with bower
+---
+
+1. Install with bower
+`bower install webfont-medical-icons --save`
+
+2. In the head html, reference the location to the css file
 `<link rel="stylesheet" href="../css/wfmi-style.css">`
 
-4. Add classes to your elements
+3. Add classes to your elements
+`<span class="icon-neurology" aria-hidden="true"></span>`
+
+#### DONE!
+
+---
+#### Install manually
+---
+
+1. Download repo and extract files
+
+2. Copy the fonts folder
+`packages/webfont-medical-icons/fonts`
+
+3. Copy the css file
+`packages/webfont-medical-icons/wfmi-style.css`
+
+4. In the head html, reference the location to the css file
+`<link rel="stylesheet" href="../css/wfmi-style.css">`
+
+5. Add classes to your elements
 `<span class="icon-neurology" aria-hidden="true"></span>`
 
 #### DONE!
