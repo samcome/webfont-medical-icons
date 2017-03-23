@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'webfont-medical-icons';
-	src:url('fonts/webfont-medical-icons.eot');
-	src:url('fonts/webfont-medical-icons.eot?#iefix') format('embedded-opentype'),
-		url('fonts/webfont-medical-icons.ttf') format('truetype'),
-		url('fonts/webfont-medical-icons.woff') format('woff'),
-		url('fonts/webfont-medical-icons.svg#webfont-medical-icons') format('svg');
+	src:url('../fonts/webfont-medical-icons.eot');
+	src:url('../fonts/webfont-medical-icons.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/webfont-medical-icons.ttf') format('truetype'),
+		url('../fonts/webfont-medical-icons.woff') format('woff'),
+		url('../fonts/webfont-medical-icons.svg#webfont-medical-icons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
