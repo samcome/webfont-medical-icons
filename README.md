@@ -28,7 +28,7 @@ SVGs, PNGs (64x64), Webfont (.eot, .ttf, .woff, .svg)
 `<link rel="stylesheet" href="../css/wfmi-style.css">`
 
 3. Add classes to your elements
-`<span class="icon-neurology" aria-hidden="true"></span>`
+`<span class="medical-icon-neurology" aria-hidden="true"></span>`
 
 #### DONE!
 
@@ -48,7 +48,7 @@ SVGs, PNGs (64x64), Webfont (.eot, .ttf, .woff, .svg)
 `<link rel="stylesheet" href="../css/wfmi-style.css">`
 
 5. Add classes to your elements
-`<span class="icon-neurology" aria-hidden="true"></span>`
+`<span class="medical-icon-neurology" aria-hidden="true"></span>`
 
 #### DONE!
 

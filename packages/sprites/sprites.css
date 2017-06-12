@@ -1,4 +1,4 @@
-[class*="icon-"] {
+[class*="medical-icon-"] {
     display: inline-block;
     width: 64px;
     height: 64px;
@@ -6,594 +6,594 @@
     background-repeat: no-repeat;
 }
 
-.icon-i-womens-health {
+.medical-icon-i-womens-health {
     background-position: 0 0;
     width: 64px;
 }
 
-.icon-i-waiting-area {
+.medical-icon-i-waiting-area {
     background-position: -80px 0;
     width: 64px;
 }
 
-.icon-i-volume-control {
+.medical-icon-i-volume-control {
     background-position: -160px 0;
     width: 64px;
 }
 
-.icon-i-ultrasound {
+.medical-icon-i-ultrasound {
     background-position: -240px 0;
     width: 65px;
 }
 
-.icon-i-text-telephone {
+.medical-icon-i-text-telephone {
     background-position: -321px 0;
     width: 64px;
 }
 
-.icon-i-surgery {
+.medical-icon-i-surgery {
     background-position: -401px 0;
     width: 65px;
 }
 
-.icon-i-stairs {
+.medical-icon-i-stairs {
     background-position: -482px 0;
     width: 64px;
 }
 
-.icon-i-radiology {
+.medical-icon-i-radiology {
     background-position: -562px 0;
     width: 64px;
 }
 
-.icon-i-physical-therapy {
+.medical-icon-i-physical-therapy {
     background-position: -642px 0;
     width: 64px;
 }
 
-.icon-i-pharmacy {
+.medical-icon-i-pharmacy {
     background-position: -722px 0;
     width: 65px;
 }
 
-.icon-i-pediatrics {
+.medical-icon-i-pediatrics {
     background-position: -803px 0;
     width: 64px;
 }
 
-.icon-i-pathology {
+.medical-icon-i-pathology {
     background-position: -883px 0;
     width: 64px;
 }
 
-.icon-i-outpatient {
+.medical-icon-i-outpatient {
     background-position: -963px 0;
     width: 64px;
 }
 
-.icon-i-mental-health {
+.medical-icon-i-mental-health {
     background-position: -1043px 0;
     width: 64px;
 }
 
-.icon-i-medical-records {
+.medical-icon-i-medical-records {
     background-position: -1123px 0;
     width: 64px;
 }
 
-.icon-i-medical-library {
+.medical-icon-i-medical-library {
     background-position: -1203px 0;
     width: 65px;
 }
 
-.icon-i-mammography {
+.medical-icon-i-mammography {
     background-position: 0 -80px;
 }
 
-.icon-i-laboratory {
+.medical-icon-i-laboratory {
     background-position: -80px -80px;
 }
 
-.icon-i-labor-delivery {
+.medical-icon-i-labor-delivery {
     background-position: -160px -80px;
 }
 
-.icon-i-immunizations {
+.medical-icon-i-immunizations {
     background-position: -240px -80px;
 }
 
-.icon-i-imaging-root-category {
+.medical-icon-i-imaging-root-category {
     background-position: -321px -80px;
 }
 
-.icon-i-imaging-alternative-pet {
+.medical-icon-i-imaging-alternative-pet {
     background-position: -401px -80px;
 }
 
-.icon-i-imaging-alternative-mri {
+.medical-icon-i-imaging-alternative-mri {
     background-position: -482px -80px;
 }
 
-.icon-i-imaging-alternative-mri-two {
+.medical-icon-i-imaging-alternative-mri-two {
     background-position: -562px -80px;
 }
 
-.icon-i-imaging-alternative-ct {
+.medical-icon-i-imaging-alternative-ct {
     background-position: -642px -80px;
 }
 
-.icon-i-fire-extinguisher {
+.medical-icon-i-fire-extinguisher {
     background-position: -722px -80px;
 }
 
-.icon-i-family-practice {
+.medical-icon-i-family-practice {
     background-position: -803px -80px;
 }
 
-.icon-i-emergency {
+.medical-icon-i-emergency {
     background-position: -883px -80px;
 }
 
-.icon-i-elevators {
+.medical-icon-i-elevators {
     background-position: -963px -80px;
 }
 
-.icon-i-ear-nose-throat {
+.medical-icon-i-ear-nose-throat {
     background-position: -1043px -80px;
 }
 
-.icon-i-drinking-fountain {
+.medical-icon-i-drinking-fountain {
     background-position: -1123px -80px;
 }
 
-.icon-i-cardiology {
+.medical-icon-i-cardiology {
     background-position: -1203px -80px;
 }
 
-.icon-i-billing {
+.medical-icon-i-billing {
     background-position: 0 -160px;
 }
 
-.icon-i-anesthesia {
+.medical-icon-i-anesthesia {
     background-position: -80px -160px;
 }
 
-.icon-i-ambulance {
+.medical-icon-i-ambulance {
     background-position: -160px -160px;
 }
 
-.icon-i-alternative-complementary {
+.medical-icon-i-alternative-complementary {
     background-position: -240px -160px;
 }
 
-.icon-i-administration {
+.medical-icon-i-administration {
     background-position: -321px -160px;
 }
 
-.icon-i-social-services {
+.medical-icon-i-social-services {
     background-position: -401px -160px;
 }
 
-.icon-i-smoking {
+.medical-icon-i-smoking {
     background-position: -482px -160px;
 }
 
-.icon-i-restrooms {
+.medical-icon-i-restrooms {
     background-position: -562px -160px;
 }
 
-.icon-i-restaurant {
+.medical-icon-i-restaurant {
     background-position: -642px -160px;
 }
 
-.icon-i-respiratory {
+.medical-icon-i-respiratory {
     background-position: -722px -160px;
 }
 
-.icon-i-registration {
+.medical-icon-i-registration {
     background-position: -803px -160px;
 }
 
-.icon-i-oncology {
+.medical-icon-i-oncology {
     background-position: -883px -160px;
 }
 
-.icon-i-nutrition {
+.medical-icon-i-nutrition {
     background-position: -963px -160px;
 }
 
-.icon-i-nursery {
+.medical-icon-i-nursery {
     background-position: -1043px -160px;
 }
 
-.icon-i-no-smoking {
+.medical-icon-i-no-smoking {
     background-position: -1123px -160px;
 }
 
-.icon-i-neurology {
+.medical-icon-i-neurology {
     background-position: -1203px -160px;
 }
 
-.icon-i-mri-pet {
+.medical-icon-i-mri-pet {
     background-position: 0 -240px;
 }
 
-.icon-i-interpreter-services {
+.medical-icon-i-interpreter-services {
     background-position: -80px -240px;
 }
 
-.icon-i-internal-medicine {
+.medical-icon-i-internal-medicine {
     background-position: -160px -240px;
 }
 
-.icon-i-intensive-care {
+.medical-icon-i-intensive-care {
     background-position: -240px -240px;
 }
 
-.icon-i-inpatient {
+.medical-icon-i-inpatient {
     background-position: -321px -240px;
 }
 
-.icon-i-information-us {
+.medical-icon-i-information-us {
     background-position: -401px -240px;
 }
 
-.icon-i-infectious-diseases {
+.medical-icon-i-infectious-diseases {
     background-position: -482px -240px;
 }
 
-.icon-i-hearing-assistance {
+.medical-icon-i-hearing-assistance {
     background-position: -562px -240px;
 }
 
-.icon-i-health-services {
+.medical-icon-i-health-services {
     background-position: -642px -240px;
 }
 
-.icon-i-health-education {
+.medical-icon-i-health-education {
     background-position: -722px -240px;
 }
 
-.icon-i-gift-shop {
+.medical-icon-i-gift-shop {
     background-position: -803px -240px;
 }
 
-.icon-i-genetics {
+.medical-icon-i-genetics {
     background-position: -883px -240px;
 }
 
-.icon-i-first-aid {
+.medical-icon-i-first-aid {
     background-position: -963px -240px;
 }
 
-.icon-i-dermatology {
+.medical-icon-i-dermatology {
     background-position: -1043px -240px;
 }
 
-.icon-i-dental {
+.medical-icon-i-dental {
     background-position: -1123px -240px;
 }
 
-.icon-i-coffee-shop {
+.medical-icon-i-coffee-shop {
     background-position: -1203px -240px;
 }
 
-.icon-i-chapel {
+.medical-icon-i-chapel {
     background-position: 0 -320px;
 }
 
-.icon-i-cath-lab {
+.medical-icon-i-cath-lab {
     background-position: -80px -320px;
 }
 
-.icon-i-care-staff-area {
+.medical-icon-i-care-staff-area {
     background-position: -160px -320px;
 }
 
-.icon-i-accessibility {
+.medical-icon-i-accessibility {
     background-position: -240px -320px;
 }
 
-.icon-i-diabetes-education {
+.medical-icon-i-diabetes-education {
     background-position: -321px -320px;
 }
 
-.icon-i-hospital {
+.medical-icon-i-hospital {
     background-position: -401px -320px;
 }
 
-.icon-i-kidney {
+.medical-icon-i-kidney {
     background-position: -482px -320px;
 }
 
-.icon-i-ophthalmology {
+.medical-icon-i-ophthalmology {
     background-position: -562px -320px;
 }
 
-.icon-womens-health {
+.medical-icon-womens-health {
     background-position: -642px -320px;
 }
 
-.icon-waiting-area {
+.medical-icon-waiting-area {
     background-position: -722px -320px;
 }
 
-.icon-volume-control {
+.medical-icon-volume-control {
     background-position: -803px -320px;
 }
 
-.icon-ultrasound {
+.medical-icon-ultrasound {
     background-position: -883px -320px;
 }
 
-.icon-text-telephone {
+.medical-icon-text-telephone {
     background-position: -963px -320px;
 }
 
-.icon-surgery {
+.medical-icon-surgery {
     background-position: -1043px -320px;
 }
 
-.icon-stairs {
+.medical-icon-stairs {
     background-position: -1123px -320px;
 }
 
-.icon-radiology {
+.medical-icon-radiology {
     background-position: -1203px -320px;
 }
 
-.icon-physical-therapy {
+.medical-icon-physical-therapy {
     background-position: 0 -400px;
 }
 
-.icon-pharmacy {
+.medical-icon-pharmacy {
     background-position: -80px -400px;
 }
 
-.icon-pediatrics {
+.medical-icon-pediatrics {
     background-position: -160px -400px;
 }
 
-.icon-pathology {
+.medical-icon-pathology {
     background-position: -240px -400px;
 }
 
-.icon-outpatient {
+.medical-icon-outpatient {
     background-position: -321px -400px;
 }
 
-.icon-ophthalmology {
+.medical-icon-ophthalmology {
     background-position: -401px -400px;
 }
 
-.icon-mental-health {
+.medical-icon-mental-health {
     background-position: -482px -400px;
 }
 
-.icon-medical-records {
+.medical-icon-medical-records {
     background-position: -562px -400px;
 }
 
-.icon-medical-library {
+.medical-icon-medical-library {
     background-position: -642px -400px;
 }
 
-.icon-mammography {
+.medical-icon-mammography {
     background-position: -722px -400px;
 }
 
-.icon-laboratory {
+.medical-icon-laboratory {
     background-position: -803px -400px;
 }
 
-.icon-labor-delivery {
+.medical-icon-labor-delivery {
     background-position: -883px -400px;
 }
 
-.icon-kidney {
+.medical-icon-kidney {
     background-position: -963px -400px;
 }
 
-.icon-immunizations {
+.medical-icon-immunizations {
     background-position: -1043px -400px;
 }
 
-.icon-imaging-root-category {
+.medical-icon-imaging-root-category {
     background-position: -1123px -400px;
 }
 
-.icon-imaging-alternative-pet {
+.medical-icon-imaging-alternative-pet {
     background-position: -1203px -400px;
 }
 
-.icon-imaging-alternative-mri {
+.medical-icon-imaging-alternative-mri {
     background-position: 0 -480px;
 }
 
-.icon-imaging-alternative-mri-two {
+.medical-icon-imaging-alternative-mri-two {
     background-position: -80px -480px;
 }
 
-.icon-imaging-alternative-ct {
+.medical-icon-imaging-alternative-ct {
     background-position: -160px -480px;
 }
 
-.icon-hospital {
+.medical-icon-hospital {
     background-position: -240px -480px;
 }
 
-.icon-fire-extinguisher {
+.medical-icon-fire-extinguisher {
     background-position: -321px -480px;
 }
 
-.icon-family-practice {
+.medical-icon-family-practice {
     background-position: -401px -480px;
 }
 
-.icon-emergency {
+.medical-icon-emergency {
     background-position: -482px -480px;
 }
 
-.icon-elevators {
+.medical-icon-elevators {
     background-position: -562px -480px;
 }
 
-.icon-ear-nose-throat {
+.medical-icon-ear-nose-throat {
     background-position: -642px -480px;
 }
 
-.icon-drinking-fountain {
+.medical-icon-drinking-fountain {
     background-position: -722px -480px;
 }
 
-.icon-diabetes-education {
+.medical-icon-diabetes-education {
     background-position: -803px -480px;
 }
 
-.icon-cardiology {
+.medical-icon-cardiology {
     background-position: -883px -480px;
 }
 
-.icon-billing {
+.medical-icon-billing {
     background-position: -963px -480px;
 }
 
-.icon-anesthesia {
+.medical-icon-anesthesia {
     background-position: -1043px -480px;
 }
 
-.icon-ambulance {
+.medical-icon-ambulance {
     background-position: -1123px -480px;
 }
 
-.icon-alternative-complementary {
+.medical-icon-alternative-complementary {
     background-position: -1203px -480px;
 }
 
-.icon-administration {
+.medical-icon-administration {
     background-position: 0 -560px;
 }
 
-.icon-accessibility {
+.medical-icon-accessibility {
     background-position: -80px -560px;
 }
 
-.icon-social-services {
+.medical-icon-social-services {
     background-position: -160px -560px;
 }
 
-.icon-smoking {
+.medical-icon-smoking {
     background-position: -240px -560px;
 }
 
-.icon-restrooms {
+.medical-icon-restrooms {
     background-position: -321px -560px;
 }
 
-.icon-restaurant {
+.medical-icon-restaurant {
     background-position: -401px -560px;
 }
 
-.icon-respiratory {
+.medical-icon-respiratory {
     background-position: -482px -560px;
 }
 
-.icon-oncology {
+.medical-icon-oncology {
     background-position: -562px -560px;
 }
 
-.icon-nutrition {
+.medical-icon-nutrition {
     background-position: -642px -560px;
 }
 
-.icon-nursery {
+.medical-icon-nursery {
     background-position: -722px -560px;
 }
 
-.icon-no-smoking {
+.medical-icon-no-smoking {
     background-position: -803px -560px;
 }
 
-.icon-neurology {
+.medical-icon-neurology {
     background-position: -883px -560px;
 }
 
-.icon-mri-pet {
+.medical-icon-mri-pet {
     background-position: -963px -560px;
 }
 
-.icon-interpreter-services {
+.medical-icon-interpreter-services {
     background-position: -1043px -560px;
 }
 
-.icon-internal-medicine {
+.medical-icon-internal-medicine {
     background-position: -1123px -560px;
 }
 
-.icon-intensive-care {
+.medical-icon-intensive-care {
     background-position: -1203px -560px;
 }
 
-.icon-inpatient {
+.medical-icon-inpatient {
     background-position: 0 -640px;
 }
 
-.icon-information-us {
+.medical-icon-information-us {
     background-position: -80px -640px;
 }
 
-.icon-infectious-diseases {
+.medical-icon-infectious-diseases {
     background-position: -160px -640px;
 }
 
-.icon-hearing-assistance {
+.medical-icon-hearing-assistance {
     background-position: -240px -640px;
 }
 
-.icon-health-services {
+.medical-icon-health-services {
     background-position: -321px -640px;
 }
 
-.icon-health-education {
+.medical-icon-health-education {
     background-position: -401px -640px;
 }
 
-.icon-gift-shop {
+.medical-icon-gift-shop {
     background-position: -482px -640px;
 }
 
-.icon-genetics {
+.medical-icon-genetics {
     background-position: -562px -640px;
 }
 
-.icon-first-aid {
+.medical-icon-first-aid {
     background-position: -642px -640px;
 }
 
-.icon-dental {
+.medical-icon-dental {
     background-position: -722px -640px;
 }
 
-.icon-coffee-shop {
+.medical-icon-coffee-shop {
     background-position: -803px -640px;
 }
 
-.icon-chapel {
+.medical-icon-chapel {
     background-position: -883px -640px;
 }
 
-.icon-cath-lab {
+.medical-icon-cath-lab {
     background-position: -963px -640px;
 }
 
-.icon-care-staff-area {
+.medical-icon-care-staff-area {
     background-position: -1043px -640px;
 }
 
-.icon-registration {
+.medical-icon-registration {
     background-position: -1123px -640px;
 }
 
-.icon-dermatology {
+.medical-icon-dermatology {
     background-position: -1203px -640px;
 }

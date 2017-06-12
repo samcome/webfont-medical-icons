@@ -13,7 +13,7 @@ define(["jquery", "bootstrap.min"], function($){
    // Show it in the svg-container and update size/colour
    $(icons).on("click", function(e){
       var iconName = $(this).data("original-title");
-      var fileName = iconName.replace("icon-", "") + ".svg";
+      var fileName = iconName.replace("medical-icon-", "") + ".svg";
       var filePath = "packages/svg/" + fileName;
       $.get(filePath).done(function(data){
          var icon = $(data).find("svg");
