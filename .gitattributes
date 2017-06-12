@@ -1,0 +1,25 @@
+# source code
+*.css text
+
+# server config
+.htaccess text
+
+# git config
+.gitattributes text
+.gitignore text
+
+# Documentation
+*.md text
+LICENSE text
+AUTHORS text
+
+
+#
+## These files are binary and should be left untouched
+#
+
+# (binary is a macro for -text -diff)
+*.ttf binary
+*.eot binary
+*.woff binary
+*.woff2 binary

@@ -1,0 +1,11 @@
+{
+  "name": "webfont-medical-icons",
+  "description": "72 ICONS (X2) specialized in the Clinical & Medical world FREE and easy to use!",
+  "main": "packages/webfont-medical-icons/css/wfmi-style.css",
+  "authors": [
+    "Samuel Frémondière"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/alsbury/webfont-medical-icons",
+  "moduleType": []
+}
